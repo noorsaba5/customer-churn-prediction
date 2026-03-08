@@ -18,6 +18,40 @@ This project builds a **machine learning model to predict which telecom customer
 The project demonstrates a **complete data science workflow**, from exploratory data analysis to predictive modeling and business insight generation.
 
 ---
+## Key Visualizations
+
+### Customer Churn Distribution
+![Churn Distribution](outputs/figures/churn_distribution.png)
+
+This chart shows the distribution of customers who stayed versus those who churned.
+
+---
+
+### Churn vs Contract Type
+![Churn vs Contract](outputs/figures/churn_vs_contract.png)
+
+Customers with **month-to-month contracts have significantly higher churn rates** than customers with longer contracts.
+
+---
+
+### Monthly Charges vs Churn
+![Monthly Charges vs Churn](outputs/figures/monthly_charges_vs_churn.png)
+
+Customers paying **higher monthly charges tend to churn more frequently**.
+
+---
+
+### Customer Tenure Analysis
+![Tenure vs Churn](outputs/figures/tenure_vs_churn.png)
+
+Customers with **short tenure are much more likely to leave**, highlighting the importance of early customer retention.
+
+---
+
+### Feature Importance
+![Feature Importance](outputs/figures/feature_importance.png)
+
+The model identifies **contract type, tenure, and monthly charges** as the most important drivers of churn.
 
 # Project Objectives
 
