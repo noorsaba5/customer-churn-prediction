@@ -11,6 +11,20 @@
 
 ## End-to-End Machine Learning Project for Telecom Customer Retention
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://customer-churn-prediction-gn6hcvhahskzsrtu5ksxqt.streamlit.app/)
+
+## 🚀 Live Demo
+
+Try the interactive Machine Learning application:
+
+👉 https://customer-churn-prediction-gn6hcvhahskzsrtu5ksxqt.streamlit.app/
+
+---
+
+## End-to-End Machine Learning Project for Telecom
+
+Customer churn is one of the most critical business challenges in subscription-based industries such as telecommunications.
+
 Customer churn is one of the most critical business challenges in subscription-based industries such as telecommunications. When customers leave, companies lose recurring revenue and must spend more to acquire new customers.
 
 This project builds a **machine learning model to predict which telecom customers are likely to churn**. The goal is to help businesses identify high-risk customers early and implement retention strategies.
